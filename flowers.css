@@ -58,7 +58,7 @@ body {
   left: 20px;
   max-width: 23-px;
   font-family: "Playfair Display", serif;
-  font-size: 10px;
+  font-size: 20px;
   line-height: 1.6;
   color: rgba(139, 128, 128, 0.65);
   font-style: italic;
@@ -1113,4 +1113,5 @@ body {
     color: white; /* Change text color for better contrast */
 
 }
+
 
